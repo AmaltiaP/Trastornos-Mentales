@@ -1,0 +1,39 @@
+body { 
+    background-color: #87a383;
+    color: white;
+    font-family: 'Raleway', sans-serif;  
+    font-size: 20px;  
+}
+
+.titulo{
+    color: black;
+    font-family: 'Anton', sans-serif;
+    font-size: 35px;    
+}
+
+h2{
+    color: blue;
+}
+
+.imagen1{
+    width: 400px;
+}
+
+.imagen2{
+    width: 550px;
+}
+    
+/*
+Selector {
+    propiedad: valor;
+}
+*/
+/* podemos llamar a todas las imagenes de la pagina con 
+
+img{
+    width: 100px;
+}
+y se modificaran todas las imagenes al mismo tamaño,
+excepto las que destaquemos con una clase*/
+/* google fonts puede conectarse con CSS para que 
+podamos usar una tipografía*/
